@@ -1,1 +1,4 @@
 ciao
+Git add -A
+Git add .
+Git add-nomefile
